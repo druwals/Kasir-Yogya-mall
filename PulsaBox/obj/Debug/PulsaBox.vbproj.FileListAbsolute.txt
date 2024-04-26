@@ -1,0 +1,15 @@
+F:\PROYEK VISUAL STUDIO\PulsaBox\bin\Debug\PulsaBox.exe.config
+F:\PROYEK VISUAL STUDIO\PulsaBox\bin\Debug\PulsaBox.exe
+F:\PROYEK VISUAL STUDIO\PulsaBox\bin\Debug\PulsaBox.pdb
+F:\PROYEK VISUAL STUDIO\PulsaBox\bin\Debug\PulsaBox.xml
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.vbproj.AssemblyReference.cache
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.Resources.resources
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.vbproj.GenerateResource.cache
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.vbproj.CoreCompileInputs.cache
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.exe
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.xml
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.pdb
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.FrmDashboard.resources
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.FrmLogin.resources
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.FrmAgent.resources
+F:\PROYEK VISUAL STUDIO\PulsaBox\obj\Debug\PulsaBox.FrmProvider.resources
